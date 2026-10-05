@@ -2,14 +2,16 @@
 public class DecisionStatements {
     public static void main(String[] args) {
 
-        // 1. Simple if statement
+        // SIMPLE IF STATEMENT
+        
         int number = 10;
 
         if (number > 0) {
             System.out.println("Number is positive.");
         }
 
-        // 2. If-else statement
+        // IF ELSE STATEMENT
+
         int age = 17;
 
         if (age >= 18) {
@@ -18,7 +20,8 @@ public class DecisionStatements {
             System.out.println("Not eligible by age.");
         }
 
-        // 3. Else-if ladder
+        // ELSE IF LADDER
+
         int marks = 82;
 
         if (marks >= 90) {
@@ -31,7 +34,8 @@ public class DecisionStatements {
             System.out.println("Grade: D");
         }
 
-        // 4. Nested if statement
+        // NESTED IF STATEMENT
+
         int ageForEntry = 20;
         boolean hasTicket = true;
 
