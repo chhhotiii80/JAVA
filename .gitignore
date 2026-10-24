@@ -1,4 +1,5 @@
-# Ignore local environment variables (secrets , API keys.env)
-# Ignore mode modules (for Node.js/JavaScript projects) node_modules/
-# Ignore system files .DS_Store Thumb.db
-# Ignore all log files *.log
+*.class
+bin/
+.vscode/
+.DS_Store
+**/tempCodeRunnerFile.java
