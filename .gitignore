@@ -1,5 +1,2 @@
 *.class
-bin/
-.vscode/
-.DS_Store
-**/tempCodeRunnerFile.java
+git add .
