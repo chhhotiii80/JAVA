@@ -1,3 +1,7 @@
+//BREAK immediately exits the loop
+//CONTINUE skips the remaining statements in the current iteration and proceeds to the next iteration
+//RETURN exits the current method 
+
 
 public class BranchingDemo {
     public static void main(String[] args) {
