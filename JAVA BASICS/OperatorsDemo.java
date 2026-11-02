@@ -1,4 +1,5 @@
-
+// performs division. With two integers , the fractional part is discarded
+//
 
 
 
