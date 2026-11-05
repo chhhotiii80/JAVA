@@ -1,4 +1,7 @@
-
+// bytes = small whole numbers
+// short = whole numbers
+// int = common whole numbers
+// long = large whole numbers
 
 
 
