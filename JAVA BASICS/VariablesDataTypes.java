@@ -2,14 +2,11 @@
 // short = whole numbers
 // int = common whole numbers
 // long = large whole numbers
-
-
-
-
-
-
-
-
+// float = decimal values
+// double = decimal values with more precision
+// char = one character
+// boolean = true or false
+// string = text
 
 
 public class VariablesDataTypes {
