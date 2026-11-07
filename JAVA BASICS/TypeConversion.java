@@ -1,8 +1,8 @@
-
-
-
-
-
+// widening conversion - java automatically converts 100 into 100.0
+// narrowing conversion - the decimal portion is discarded , so the result is 99
+// casting to byte - a java byte can store values from -128 to 127.the value 130 is outside that range , so casting it to bytes produces -126
+//character conversion - a character 'A' has the numeric code 65 in java
+// integer versus decimal division - 5/2 produces 2 because both operands are integers . (double) 5/2 produces 2.5 because one operand is a double
 
 
 public class TypeConversion {
